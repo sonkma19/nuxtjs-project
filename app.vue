@@ -1,14 +1,15 @@
 <template>
     <div>
-        <NuxtPage/>
+        <NuxtPage />
     </div>
 </template>
 
-<!-- <script>
+<script>
     export default {
-        
-    }
-</script> -->
+        name: "App",
+    };
+</script>
+
 
 <style lang="scss" scoped>
 
